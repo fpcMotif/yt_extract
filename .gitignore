@@ -1,0 +1,6 @@
+/target/
+Cargo.lock
+*.txt
+*.swp
+.DS_Store
+
